@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [VENKATA AMARNADH T](https://github.com/Vasukumar3) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [VENKATA AMARNADH T](https://github.com/amarnadh7828/amarnadh7828.git) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
 # 💫 About Me:
