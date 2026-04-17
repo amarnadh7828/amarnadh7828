@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [VENKATA AMARNADH T](https://github.com/amarnadh7828/amarnadh7828.git) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [VENKATA AMARNADH T](https://github.com/amarnadh7828/amarnadh7828.git) 
 
 
 # 💫 About Me:
@@ -6,14 +6,12 @@
 Tips and strategies for mastering Python.
 Practical approaches to task-based learning in programming.
 How to effectively prepare for Python programming interviews.
-My experience in freelancing and training over 1000+ students..<br>- 📫 How to reach me: ... vasukumarpalani@gmail.com
+My experience in freelancing and training over 1000+ students..<br>- 📫 How to reach me: ... amarnadh7828@gmail.com
 
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/vasu-kumar-palani/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/vasu_kumar_palani/"><img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><a href="https://twitter.com/Vasu_kumar3"><img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
-</a>
-<br><br>
+
 
 
 
@@ -27,9 +25,6 @@ My experience in freelancing and training over 1000+ students..<br>- 📫 How to
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Vasu_kumar3)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
-[![](https://visitcount.itsvg.in/api?id=@Vasukumar3&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
